@@ -1,0 +1,8 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+body button{
+    background-color: yellow;
+    font-size: 20px;
+}
